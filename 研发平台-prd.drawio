@@ -581,6 +581,12 @@
         <mxCell id="i2vauVKY3qPKkVXRnJ1a-2" value="&lt;h1&gt;收起&lt;/h1&gt;&lt;div&gt;点击可收起菜单&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="-272" y="342" width="99" height="79" as="geometry" />
         </mxCell>
+        <mxCell id="vV31biBV3vJ7zn1NUwv8-1" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;&quot;&gt;角色&lt;/font&gt;管理&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="18" y="877" width="111" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vV31biBV3vJ7zn1NUwv8-2" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;菜单管理&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="23.5" y="902" width="101" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
