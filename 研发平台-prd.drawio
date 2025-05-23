@@ -331,6 +331,9 @@
         <mxCell id="jCN4M8HlD_yxs8DoKUsi-6" value="退出登录" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="804" y="139" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="tOXZ4FVVMuvhhA-vyDeJ-2" value="路由：" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-126" y="1291" width="521" height="43" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
